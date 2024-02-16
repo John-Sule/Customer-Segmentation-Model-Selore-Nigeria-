@@ -2,6 +2,6 @@ This project segments customers, based on their purchasing behavior and demograp
 
 Unsupervised learning techniques (Kmeans, Silhouette Score) were employed to identify groups of customers with similar behavior and characteristics.
 
-The Customers were grouped into 5 clusters, as regards the correlation in clusters, between their Annual income and spending score. 
+The Customers were grouped into 5 clusters, as regards the correlation between their Annual income and spending score. 
 
 This information could then be used to develop a targeted marketing campaign.
